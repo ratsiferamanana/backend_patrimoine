@@ -1,0 +1,13 @@
+{
+  "totalPatrimoine": 16000000,
+  "possessions": [
+    {
+      "nom": "Maison",
+      "valeur": 1000000
+    },
+    {
+      "nom": "Voiture",
+      "valeur": 15000000
+    }
+  ]
+}
